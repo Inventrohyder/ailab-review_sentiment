@@ -1,5 +1,5 @@
 /.env
 /.ipynb_checkpoints
 /.vscode
-/test.csv
-/to_model.csv
+test.csv
+to_model.csv
